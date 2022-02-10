@@ -25,7 +25,7 @@
     "@angular/platform-browser-dynamic": "~8.2.0",
     "@angular/router": "~8.2.0",
     "bootstrap": "^4.4.1",
-    "engine.io": "^3.4.0",
+    "engine.io": "^4.1.2",
     "jquery": "^3.4.1",
     "ngx-socket-io": "^3.0.1",
     "nodemon": "^2.0.2",
